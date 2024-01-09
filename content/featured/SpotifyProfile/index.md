@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Astronaut Adventures'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/ctaphal/astronaut-adventures'
+external: 'https://astronaut-adventures.streamlit.app/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Python
+  - Streamlit
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Space-themed web app for kids! Designed to engage kids with space through fun (and occasionally educational) content! Contains "out of this world" puns, music, NASA pics, and MORE😲!
+
+_Developed during GirlHacks 2023_
